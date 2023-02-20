@@ -1,39 +1,99 @@
-# 📖 Hello-Microverse <a name="about-project"></a>
+📗 Table of Contents
+📖 About the Project
+🛠 Built With
+Tech Stack
+Key Features
+💻 Getting Started
+Setup
+Prerequisites
+Install
+Usage
+👥 Authors
+🔭 Future Features
+🤝 Contributing
+⭐️ Show your support
+🙏 Acknowledgements
+❓ FAQ (OPTIONAL)
+📝 License
 
-> My first project with linters
+[Hello-Microverse]
+This is a simple Hello Microverse project.
 
-## 🛠 Built With <a name="built-with">
--HTML
--CSS</a>
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  
+🛠 Built With
+Tech Stack
+Javascript runtime environment
+ • Node JS
+Version control
+ • Git Hub
 
 
+[key_feature_1] 
+This project will not have any additional features.
 
-## 👥 Authors <a name="authors"></a>
+💻 Getting Started
+
+Creating your first "Hello-microverse" project
+To get a local copy up and running, follow these steps.
 
 
+Prerequisites
+In order to run this project you need:
+-A Git hub account
+-Node JS
+-Visual Studio Code or any other code editor of your preference
+-web browser
 
-👤 **Collins**
+To get a local copy up and running, follow these steps.
 
-- GitHub: [@gfirstpj](https://github.com/firstpj)
+
+👥 Authors
+👤 Author1
+
+GitHub: [@firstpj](https://github.com/firstpj)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
-- LinkedIn: [collin-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
-
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
 
 
 
-## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+🔭 Future Features
+Describe 1 - 3 features you will add to the project.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+ [new_feature_1]
+(back to top)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+(back to top)
+
+⭐️ Show your support
+Write a message to encourage readers to support your project
+
+If you like this project...
+
+(back to top)
+
+🙏 Acknowledgments
+I am very grateful to Microverse for the priviledge to make my dream come true.
+
+I would like to thank every member of microverse for their kind of support.
+
+(back to top)
+
+❓ FAQ (OPTIONAL)
+Add at least 2 questions new developers would ask when they decide to use your project.
+
+[Question_1] Can I use chrome browser?
+
+[Answer_1] Use browser of your own choice
+
+(back to top)
+
+📝 License
+This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+
