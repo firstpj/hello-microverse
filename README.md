@@ -23,7 +23,7 @@
 
 - GitHub: [@gfirstpj](https://github.com/firstpj)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
-- LinkedIn: [[collin-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
+- LinkedIn: [collin-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
