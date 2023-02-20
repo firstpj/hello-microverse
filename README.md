@@ -51,7 +51,7 @@ To get a local copy up and running, follow these steps.
 
 GitHub: [@firstpj](https://github.com/firstpj)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
-- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
+- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collins-akorda-bb46b2232)
 
 
 
