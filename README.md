@@ -1,4 +1,5 @@
 📗 Table of Contents
+
 📖 About the Project
 🛠 Built With
 Tech Stack
@@ -44,21 +45,13 @@ In order to run this project you need:
 -web browser
 
 
-<<<<<<< HEAD
-👤 Collins1
-
-GitHub: [@firstpj](https://github.com/firstpj)
-- Twitter: [@AkordaC](https://twitter.com/AkordaC)
-- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
-=======
-
 👥 Authors
 👤 Collins
 
-GitHub: [@firstpj](https://github.com/firstpj)
-- Twitter: [@AkordaC](https://twitter.com/AkordaC)
-- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/collins-akorda-bb46b2232)
->>>>>>> 74e8373b843bf72ae7cac57dd139a0d1c48303f4
+GitHub:(https://github.com/firstpj)
+- Twitter:(https://twitter.com/AkordaC)
+- LinkedIn:(https://linkedin.com/in/collins-akorda-bb46b2232)
+
 
 
 🔭 Future Features
