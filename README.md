@@ -43,17 +43,12 @@ In order to run this project you need:
 -Visual Studio Code or any other code editor of your preference
 -web browser
 
-To get a local copy up and running, follow these steps.
 
-
-👥 Authors
-👤 Author1
+👤 Collins1
 
 GitHub: [@firstpj](https://github.com/firstpj)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
 - LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
-
-
 
 
 🔭 Future Features
@@ -96,4 +91,3 @@ Add at least 2 questions new developers would ask when they decide to use your p
 This project is MIT licensed.
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
-
