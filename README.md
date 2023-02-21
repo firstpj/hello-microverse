@@ -1,20 +1,35 @@
 📗 Table of Contents
 
 📖 About the Project
+
 🛠 Built With
+
 Tech Stack
+
 Key Features
+
 💻 Getting Started
+
 Setup
+
 Prerequisites
+
 Install
+
 Usage
+
 👥 Authors
+
 🔭 Future Features
+
 🤝 Contributing
+
 ⭐️ Show your support
+
 🙏 Acknowledgements
+
 ❓ FAQ (OPTIONAL)
+
 📝 License
 
 [Hello-Microverse]
