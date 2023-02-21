@@ -42,10 +42,6 @@ Javascript runtime environment
 Version control
  • Git Hub
 
-
-[key_feature_1] 
-This project will not have any additional features.
-
 💻 Getting Started
 
 Creating your first "Hello-microverse" project
@@ -56,11 +52,12 @@ Prerequisites
 In order to run this project you need:
 -A Git hub account
 -Node JS
--Visual Studio Code or any other code editor of your preference
+-Visual Studio Code or any other code editor of your choice.
+
 -web browser
 
 
-👥 Authors
+
 👤 Collins
 
 GitHub:(https://github.com/firstpj)
@@ -76,6 +73,7 @@ Describe 1 - 3 features you will add to the project.
 (back to top)
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
@@ -83,9 +81,8 @@ Feel free to check the issues page.
 (back to top)
 
 ⭐️ Show your support
-Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, please comment on it below, share it with those that like coding. in coding, we keep learning and we learn new thing everyday.
 
 (back to top)
 
@@ -97,7 +94,6 @@ I would like to thank every member of microverse for their kind of support.
 (back to top)
 
 ❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
 
 [Question_1] Can I use chrome browser?
 
