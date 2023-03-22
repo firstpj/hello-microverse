@@ -108,6 +108,7 @@ Example commands:
 ```sh
   cd my-folder
   git clone git@github.com:firstpj/hello-microverse.git
+```
 
 ### Install
 
