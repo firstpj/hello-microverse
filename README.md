@@ -82,7 +82,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](#)
+- [Live Demo Link](NA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,14 +100,10 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-
-Example commands:
-
+-Clone this repository to your desired folder:
 ```sh
   cd my-folder
-  git clone git@github.com:firstpj/hello-microverse.git
+  'git clone git@github.com:firstpj/hello-microverse.git'
 ```
 
 ### Install
@@ -139,11 +135,11 @@ Install this project with:
 - [ ] **[Contact form]**
 - [ ] **[Mobile version of the website]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/@firstpj/hello_world/issues).
+Feel free to check the [issues page](https://github.com/@firstpj/hello_microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
