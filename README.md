@@ -123,7 +123,8 @@ Install this project with:
 ## 👥 Authors <a name="authors">Collins Akorda</a>
 
 👤 **Author1**
-
+   Collins
+    
 - GitHub: [@githubhandle](https://github.com/@firstpj)
 - Twitter: [@twitterhandle](https://twitter.com/ @AkordaC)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
