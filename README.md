@@ -143,7 +143,7 @@ Install this project with:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/katfogy/hello_world/issues).
+Feel free to check the [issues page](https://github.com/@firstpj/hello_world/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
