@@ -1,95 +1,132 @@
-📗 Table of Contents
+<a name="readme-top"></a>
 
-📖 About the Project
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-🛠 Built With
+Modify this file to match your project and remove sections that don't apply.
 
-Tech Stack
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Acknowledgements
+- License
 
-Key Features
+OPTIONAL SECTIONS:
+- FAQ
 
-💻 Getting Started
+After you're finished please remove all the comments and instructions!
+-->
 
-Setup
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  
+  <h3><b>Microverse README Template</b></h3>
 
-Prerequisites
+</div>
 
-Install
+<!-- TABLE OF CONTENTS -->
 
-Usage
+# 📗 Table of Contents
 
-👥 Authors
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-🔭 Future Features
+<!-- PROJECT DESCRIPTION -->
 
-🤝 Contributing
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-⭐️ Show your support
+> This is my first Microverse Project. It contains every first step I have to take as a developer.
 
-🙏 Acknowledgements
+**[Hello Microverse Project]** is a website that is used to test for different linter errors that could occur when building a HTML and CSS project.
 
-❓ FAQ (OPTIONAL)
+## 🛠 Built With <a name="HTML and CSS"></a>
 
-📝 License
+### Tech Stack <a name="Front end"></a>
 
-[Hello-Microverse]
-This is a simple Hello Microverse project.
+> This is a desk-top browser website.
 
-🛠 Built With
-Tech Stack
-Javascript runtime environment
- • Node JS
-Version control
- • Git Hub
 
-💻 Getting Started
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
--A Git hub account
--Node JS
--Visual Studio Code or any other code editor of your choice.
 
--web browser
+- A browser that supports html5 and css3
 
+### Setup
+
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:firstpj/hello-microverse.git
 
 ### Install
 
-- Type cd hello-microverse
-- open index.html file in the browser
+Install this project with:
 
-### Usage
-
-- To run the project, execute the following command:
-  - Type cd hello-microverse
-  - open index.html file in the browser
-
-### Run tests
-
-- To run tests, run the following command:
-  - N/A
-
-👤 Collins
-
-GitHub:(https://github.com/firstpj)
-- Twitter:(https://twitter.com/AkordaC)
-- LinkedIn:(https://linkedin.com/in/collins-akorda-bb46b2232)
+- Clone the code into your machine and run test in an editor of your choice(E.g VScode).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors">Collins Akorda</a>
 
-👤 **Collins**
+👤 **Author1**
 
-- GitHub: [@firstpj](https://github.com/firstpj)
-- Twitter: [@AkordaC](https://twitter.com/AkordaC)
-- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
+- GitHub: [@githubhandle](https://github.com/@firstpj)
+- Twitter: [@twitterhandle](https://twitter.com/ @AkordaC)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,44 +134,44 @@ GitHub:(https://github.com/firstpj)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Projects**
-- [ ] **Contact Form**
-- [ ] **Animation and Transition**
+- [ ] **[Contact form]**
+- [ ] **[Mobile version of the website]**
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
- [new_feature_1]
-(back to top)
+## 🤝 Contributing <a name="contributing"></a>
 
-🤝 Contributing
+Feel free to check the [issues page](https://github.com/katfogy/hello_world/issues).
 
-Contributions, issues, and feature requests are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Feel free to check the issues page.
+<!-- SUPPORT -->
 
-(back to top)
+## ⭐️ Show your support <a name="support"></a>
 
-⭐️ Show your support
+If you like this project or would love to tell me ways to improve it, contact me on LinkedIn or Twitter
 
-If you like this project, please comment on it below, share it with those that like coding. in coding, we keep learning and we learn new thing everyday.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+<!-- ACKNOWLEDGEMENTS -->
 
-🙏 Acknowledgments
-I am very grateful to Microverse for the priviledge to make my dream come true.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank every member of microverse for their kind of support.
 
-(back to top)
+I would like to thank Microverse community for this opportunity to learn new things.
 
-❓ FAQ (OPTIONAL)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Question_1] Can I use chrome browser?
+<!-- FAQ (optional) -->
 
-[Answer_1] Use browser of your own choice
 
-(back to top)
 
-📝 License
-This project is MIT licensed.
+<!-- LICENSE -->
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
