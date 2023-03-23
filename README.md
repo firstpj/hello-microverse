@@ -1,34 +1,3 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -50,39 +19,58 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📝 License](#License)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="microverse-project"></a>
 
-> This is my first Microverse Project. It contains every first step I have to take as a developer.
 
-**[Hello Microverse Project]** is a website that is used to test for different linter errors that could occur when building a HTML and CSS project.
+**Hello Microverse** is a website that displays my Techinical skills and projects that i have done.
 
-## 🛠 Built With <a name="HTML and CSS"></a>
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="Front end"></a>
-
-> This is a desk-top browser website.
+### Tech Stack <a name="tech-stack"></a>
 
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML</a></li>
-    <li><a href="#">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">N/A</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
+### Key Features <a name="key-features"></a>
+
+
+- **Header**
+- **Title**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](NA)
+- [Live Demo Link](N/A)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,41 +78,54 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-- A browser that supports html5 and css3
+- Modern chrome Browser
 
 ### Setup
 
--Clone this repository to your desired folder:
-```sh
-  cd my-folder
-  'git clone git@github.com:firstpj/hello-microverse.git'
-```
+- Clone this repository to your desired folder with the following commend `git clone git@github.com:https://github.com/firstpj/hello-microverse`
+
 
 ### Install
 
-Install this project with:
+- Type cd hello-microverse
+- open index.html file in the browser
 
-- Clone the code into your machine and run test in an editor of your choice(E.g VScode).
+### Usage
+
+- To run the project, execute the following command:
+  - Type cd hello-microverse
+  - open index.html file in the browser
+
+### Run tests
+
+- To run tests, run the following command:
+  - N/A
+
+### Deployment
+
+- You can deploy this project using:
+  - Type cd hello-microverse
+  - open index.html file in the browser
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Collins Akorda</a>
+## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
-   Collins
-    
-- GitHub: [@githubhandle](https://github.com/@firstpj)
-- Twitter: [@twitterhandle](https://twitter.com/ @AkordaC)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
+👤 **Collins**
+
+- GitHub: [@firstpj](https://github.com/firstpj)
+- Twitter: [@AkordaC](https://twitter.com/AkordaC)
+- LinkedIn: [collins-akorda-bb46b2232](https://linkedin.com/in/[collin-akorda-bb46b2232)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,14 +133,19 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Contact form]**
-- [ ] **[Mobile version of the website]**
+- [ ] **Projects**
+- [ ] **Contact Form**
+- [ ] **Animation and Transition**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/@firstpj/hello_microverse/issues).
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +153,8 @@ Feel free to check the [issues page](https://github.com/@firstpj/hello_microvers
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project or would love to tell me ways to improve it, contact me on LinkedIn or Twitter
+
+- If you like this project please give it a STAR⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,21 +162,15 @@ If you like this project or would love to tell me ways to improve it, contact me
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank Microverse community for this opportunity to learn new things.
+- I would like to thank following
+  - MicroVerse 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-
-
 <!-- LICENSE -->
 
+## 📝 License <a name="License"></a>
 
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
